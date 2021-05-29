@@ -58,6 +58,12 @@ h1 {
   width: 300px;
 }
 
+ .lucka {
+      border-radius: 50%;
+      width: 300px;
+      height: 300px;
+  }
+
 .introduction {
   display: flex;
   flex-direction: column;
